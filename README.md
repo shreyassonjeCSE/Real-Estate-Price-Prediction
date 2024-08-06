@@ -1,2 +1,2 @@
 # Real Estate Price Prediction
- Real Estate Price Prediction for Begaluru Housing Dataset
+ Real Estate Price Prediction for Bengaluru Housing Dataset
